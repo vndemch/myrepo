@@ -1,2 +1,3 @@
 write("Hello world!!!");
 write("Hello");
+write("Hello my dear friend");
