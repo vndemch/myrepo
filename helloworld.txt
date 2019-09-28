@@ -2,3 +2,4 @@ write("Hello world!!!;");
 write("Hello;");
 write("Hello my dear friend;");
 write("Glad to see you;");
+write("Guten Tag!;");
